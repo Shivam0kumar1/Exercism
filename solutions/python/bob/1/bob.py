@@ -1,3 +1,4 @@
+"""Classic Hey_Bob program """
 import re
 def response(hey_bob):
     hey_bob = hey_bob.strip()
